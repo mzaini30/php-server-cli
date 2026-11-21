@@ -1,0 +1,24 @@
+{
+  "name": "@mzaini30/server",
+  "version": "1.0.0",
+  "description": "CLI cepat untuk menjalankan PHP built-in server dengan port acak dan otomatis membuka browser.",
+  "type": "module",
+  "bin": {
+    "server": "./bin/server.js"
+  },
+  "keywords": [
+    "php",
+    "server",
+    "cli",
+    "development",
+    "localhost"
+  ],
+  "author": "mzaini30",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
