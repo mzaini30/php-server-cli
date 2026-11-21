@@ -4,7 +4,7 @@
   "description": "CLI cepat untuk menjalankan PHP built-in server dengan port acak dan otomatis membuka browser.",
   "type": "module",
   "bin": {
-    "server": "./bin/server.js"
+    "server": "bin/server.js"
   },
   "files": [
     "bin",
