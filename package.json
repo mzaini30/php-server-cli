@@ -6,6 +6,10 @@
   "bin": {
     "server": "./bin/server.js"
   },
+  "files": [
+    "bin",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mzaini30/php-server-cli.git"
